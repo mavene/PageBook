@@ -1,0 +1,21 @@
+FaceBook/ViewController.swift
+  s_de5ff5f5979697::t_185b0f7a25aa72 301-304,308-313
+  s_de5ff5f5979697::t_8be07fb42439a8 298-300
+  s_de5ff5f5979697::t_c062e7e527763d 314-316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "b9d297bdc3330c4173b6a03dfb22c20b97663b90",
+  "prompts": {},
+  "sessions": {
+    "s_de5ff5f5979697": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d6e6895f-69c9-4bc5-923a-977583a5904d",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Dian Maisara <dian.maisara@foodpanda.com>"
+    }
+  }
+}
